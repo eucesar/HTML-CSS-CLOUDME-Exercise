@@ -1,0 +1,27 @@
+.tres-itens{
+    display: flex;
+    justify-content: space-between;
+}
+
+/*tenho q colocar o max de altura e largura para n dar ruim na box*/
+.container-rodape{
+    margin: 30px 30px 30px 30px;
+    padding: 50px;
+    border: dotted;
+    border-color: var(--fundo);
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+.img-footer{
+    filter: var(--fundo);
+    margin: 0 0 10px 0;
+}
+
+.titulo-footer{
+    font-weight: bold;
+    font-size: 40px;
+    color: var(--fundo);
+}
+
